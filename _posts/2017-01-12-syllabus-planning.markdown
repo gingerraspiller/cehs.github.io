@@ -54,3 +54,5 @@ Here is the list of topics we are planning to go over in CEHS Coding Club.
 * All members will have a final project they can develop in pairs or individually
 * Members will use the skills they learned from previous modules to create a product with multiple parts
 * For example, members could create a cloud connected device using a photon and create web app or native tool to interface with it in an effective method
+
+SOMETHING
